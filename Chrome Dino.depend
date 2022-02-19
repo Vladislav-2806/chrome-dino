@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644650720 source:d:\vk_programms\c\chrome dino\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+
